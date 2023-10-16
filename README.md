@@ -1,0 +1,2 @@
+# uczelnia
+projects for uni
